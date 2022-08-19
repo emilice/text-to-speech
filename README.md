@@ -1,2 +1,3 @@
-# text to speech
- python, os, gtts, mp3
+pip install gtts
+
+Python 3.10
